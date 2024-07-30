@@ -8,6 +8,7 @@ VSCode can be installed from [code.visualstudio.com]("https://code.visualstudio.
 ### Learning Markdown
 Markdown is a powerful document notation tool. It has unique shorthands for **Bold** *Italic* ~Strikethrough~ and many other unique tools. 
 ### JSON Requests
+JSON requests are HTTP requests using the JSON file format. 
 ### Input Validation
 ### Postman Calls
 ### Object Orientation
