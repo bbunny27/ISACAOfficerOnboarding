@@ -9,7 +9,7 @@ VSCode can be installed from [code.visualstudio.com]("https://code.visualstudio.
 Markdown is a powerful document notation tool. It has unique shorthands for **Bold** *Italic* ~Strikethrough~ and many other unique tools. 
 ### JSON Requests
 JSON requests are HTTP requests using the JSON file format. 
-We use these for JSON requests for webscraping too. We can use them to pull country data out of a wikipedia article as I did in my web scraper.
+We use these for JSON requests for webscraping too.
 ### Input Validation
 ### Postman Calls
 ### Object Orientation
