@@ -36,7 +36,7 @@ def print_population_data(countries_population):
         print(f"{country:<25} {population:>15}")
 
 if __name__ == "__main__":
-    url = 'https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)'
+    url = 'https://www.scrapethissite.com/pages/simple/'
     data = fetch_population_data(url)
     
     if data:
